@@ -16,10 +16,6 @@ I'm William Song, currently a student in Shanghai, China.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=szywilliam)](https://github.com/ryo-ma/github-profile-trophy)
 
-![William's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szywilliam&layout=compact&hide_border=true&langs_count=10)
-
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
-
 <!--
 **SzyWilliam/SzyWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
