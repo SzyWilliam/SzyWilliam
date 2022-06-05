@@ -14,8 +14,8 @@ I'm William Song, currently a student in Shanghai, China.
 ![](https://img.shields.io/badge/-C++-blueviolet?logo=Cplusplus)
 ![](https://img.shields.io/badge/-iotdb-ff69b4?logo=apache)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=szywilliam)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 <!--
 **SzyWilliam/SzyWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
