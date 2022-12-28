@@ -4,9 +4,9 @@
 
 ### Abount Me
 I'm William Song, living in Beijing, China.
-- 🔭 I’m currently working on Apache IoTDB 
-- 🌱 I’m Interested in Distributed Database Systems / HPC
-- ⚡ I love Roman History and thus, veni vidi vici!
+- 🔭 I’m currently working on Apache IoTDB / Apache Ratis
+- 🌱 I’m Interested in Distributed Database Systems / HPC. I'm learning distributed computing & data analysis.
+- ⚡ I love tennis & ping-pong.
 
 
 ![](https://img.shields.io/badge/-java-red?logo=java)
