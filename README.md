@@ -5,8 +5,8 @@
 ### Abount Me
 I'm William Song, living in Beijing, China.
 - 🔭 I’m currently working on Apache IoTDB / Apache Ratis
-- 🌱 I’m Interested in HPC, Security Trading and Fundemantal Analysis.
-- ⚡ I love tennis & ping-pong.
+- 🌱 I’m Interested in Distributed big data systems and Machine Learning!
+- ⚡ I love photography! 📷
 
 
 ![](https://img.shields.io/badge/-java-red?logo=java)
